@@ -1,7 +1,9 @@
 
-<img align="right" alt="Coding" width="400"  src="https://ternionsolution.com/images/web_developing.gif">
+
+[![MasterHead]
 <h1 align="center">Hi 👋, I'm Vian Shah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a computer science and engineering student with a passion for programming. </h3>
+[<img align="right" alt="Coding" width="400"  src="https://ternionsolution.com/images/web_developing.gif">](https://miro.medium.com/v2/resize:fit:828/0*x4rQFjfi0iK3gS1T.gif)
 
 - 🌱 I’m currently learning **C,Java and PHP**
 
