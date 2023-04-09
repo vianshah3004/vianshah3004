@@ -1,3 +1,4 @@
+ <img src="cd06cd68-ded3-457c-9df6-4be6c2c0eb56.gif" alt="hii">
 <h1 align="center">Hi 👋, I'm Vian Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
