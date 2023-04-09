@@ -1,8 +1,5 @@
-<img align="right" alt="Coding" width="400"  src="https://miro.medium.com/v2/resize:fit:828/0*x4rQFjfi0iK3gS1T.gif">
-
 <h1 align="center">Hi 👋, I'm Vian Shah</h1>
 <h3 align="center">I am a computer science and engineering student with a passion for programming. </h3>
-
 
 - 🌱 I’m currently learning **C,Java and PHP**
 
